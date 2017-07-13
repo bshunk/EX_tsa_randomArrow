@@ -1,6 +1,17 @@
 console.log("greetings");
 
-Math.random();
+let body = document.getElementById("body");
+
+body.addEventListener("click", displayPic)
+
+function displayPic(){
+	return Math.random();
+}
+
+
+
+
+
 
 
 
