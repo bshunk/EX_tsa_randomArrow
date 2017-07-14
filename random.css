@@ -1,9 +1,11 @@
 body {
-	background-color: dimgray;
-	color: gold;
+	background-color: slategray;
 }
 
-
+#pic {
+	padding-left: 500px;
+	padding-top: 100px;
+}
 
 
 
