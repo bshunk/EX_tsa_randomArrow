@@ -7,7 +7,6 @@ let pics = ["images/arrow_left.png", "images/arrow_right.png"];
 // defines function randomNumber
 function randomNumber() {
 
-	console.log("randomNumber is working")
 	// sets variable randNum to euqual a random value between 
 	let randArrow = pics[Math.floor(Math.random() * pics.length)];
 
